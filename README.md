@@ -1,4 +1,4 @@
-# comut
+# comut-tRCC
 
 This is an example to visualize the genotypic alterations or mutational landscape from 18 samples of pateints with a rare type of kidney cancer called translocation Renal Cell Carcinoma (tRCC). This visualize the no. of SNVs, INDELs and other alterations after variant calls and filtering from GATK mutect2 pipelines. All the data used in my analyses here are found in data files as csv format. 
 
